@@ -112,9 +112,9 @@ git push
 
 ## Imagens
 
-`[Git] (https://ilarge.lisimg.com/image/8825948/980full-homer-simpson.jpg)`
+`![Git](https://img.shields.io/badge/Git-F050327?logo=git&logoColor=white)`
 
-[Git] (https://ilarge.lisimg.com/image/8825948/980full-homer-simpson.jpg)
+![Git](https://img.shields.io/badge/Git-F050327?logo=git&logoColor=white)
 
 `![Homer](./imagens/homer.png)`
 
